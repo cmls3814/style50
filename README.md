@@ -78,3 +78,4 @@ All classes which inherit from `StyleCheck` are automatically registered with `s
 Style50(["."], output="unified").run()
 
 ```
+blah
